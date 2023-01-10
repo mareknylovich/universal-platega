@@ -1,0 +1,13 @@
+{
+  "METHOD": {
+    "TITLE": "Buchung",
+    "DESCRIPTION": "Zum Zeitpunkt der Buchung ist 1 Euro auf Ihrem Konto reserviert. Der Restbetrag wird zum Zeitpunkt Ihres Besuchs bei uns bezahlt. Sie können Ihre Buchung jederzeit stornieren, ohne dass Ihnen Kosten in Rechnung gestellt werden.",
+    "TITLE_STREAMING_SERVICE": "Bearbeitung von Abonnements",
+    "DESCRIPTION_STREAMING_SERVICE": "Zum Zeitpunkt der Bestätigung der Zahlungsmethode wird 1 € auf Ihrem Konto reserviert. Sie können Ihr Abonnement jederzeit kündigen, ohne dass Ihnen Kosten entstehen.",
+    "BANK_ACCOUNT": "Bankkonto",
+    "AVAILABLE_BANKS": "Verfügbare Banken",
+    "CARD_METHOD": "Haben Sie Ihre Bank nicht gefunden? Bezahlen Sie mit Karte.",
+    "CARD": "Kreditkarte",
+    "PAYPAL_METHOD": "Paypal"
+  }
+}

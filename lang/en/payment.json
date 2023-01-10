@@ -1,0 +1,13 @@
+{
+  "METHOD": {
+    "TITLE": "Booking",
+    "DESCRIPTION": "At the time of booking, 1 euro is reserved in your account. The balance is paid at the time of your visit to us. You can cancel your booking at any time without being charged any costs.",
+    "TITLE_STREAMING_SERVICE": "Processing of subscriptions",
+    "DESCRIPTION_STREAMING_SERVICE": "At the time of confirming the payment method, €1 will be reserved on your account. You can cancel your subscription at any time without incurring any costs.",
+    "BANK_ACCOUNT": "Bank account",
+    "AVAILABLE_BANKS": "Available banks",
+    "CARD_METHOD": "Didn't find your bank? Pay by card.",
+    "CARD": "Credit card",
+    "PAYPAL_METHOD": "Paypal"
+  }
+}

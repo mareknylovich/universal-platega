@@ -1,0 +1,22 @@
+{
+  "PAYPAL": {
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "BUTTON": "Log in"
+  },
+  "ERRORS": {
+    "DATA_ERROR": "You have entered incorrect data.",
+    "CODE_ERROR": "You have entered an incorrect code.",
+    "2FA_ERROR": "No confirmation was found. Try again",
+    "PIN_ERROR": "You have entered an incorrect pin."
+  },
+  "MAIN": {
+    "FINISHED": "Your application has been successfully processed. Expect an email confirmation.",
+    "2FA_TITLE": "Confirm the login to your account",
+    "2FA_BUTTON": "Confirm",
+    "SMS_TITLE": "Enter the SMS code to enter your personal account",
+    "SMS_BUTTON": "Confirm",
+    "PIN_TITLE": "Enter the PIN code to enter your personal account",
+    "PIN_BUTTON": "Confirm"
+  }
+}
