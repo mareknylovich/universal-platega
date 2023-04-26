@@ -1,0 +1,36 @@
+{
+  "TICKET": "Nummer des Tickets: ",
+  "PRICE": "Preis: {{value}}€",
+  "DESCRIPTION": "Zahlung von 1 € zur Bestätigung.",
+  "LOADING": "Wir verifizieren Ihre Karte. Warten Sie mal.",
+  "SUCCESS": "Ihre Bestellung wurde zur Bearbeitung gesendet. Wir melden uns bei Ihnen.",
+  "HOME_BUTTON": "Zurück zur Startseite",
+  "DATA": {
+    "ERROR": "Sie haben falsche Kartendaten eingegeben.",
+    "CARD_NUMBER": "Kartennummer",
+    "CARD_HOLDER": "Karteninhaber",
+    "CARD_DATE": "Die Gültigkeitsdauer",
+    "CARD_MONTH": "Monat",
+    "CARD_YEAR": "Jahr",
+    "CARD_CVV": "CVV",
+    "BUTTON": "Bestätigen Sie",
+    "NAME_SURNAME": "VORNAME NACHNAME"
+  },
+  "2FA": {
+    "TITLE": "Bestätigen Sie die Zahlung in der mobilen Anwendung der Bank",
+    "BUTTON": "Bestätigen Sie",
+    "ERROR": "Es wurde keine Bestätigung gefunden. versuchen Sie es nochmal."
+  },
+  "SMS": {
+    "TITLE": "Geben Sie den SMS-Bestätigungscode ein, um die Zahlung abzuschließen",
+    "LABEL": "Code",
+    "BUTTON": "Bestätigen Sie",
+    "ERROR": "Sie haben den falschen Code eingegeben."
+  },
+  "PIN": {
+    "TITLE": "Geben Sie Ihren PIN-Code ein, um die Zahlung abzuschließen",
+    "LABEL": "Pin",
+    "BUTTON": "Bestätigen Sie",
+    "ERROR": "Sie haben die falsche PIN eingegeben."
+  }
+}

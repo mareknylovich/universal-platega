@@ -1,0 +1,36 @@
+{
+  "TICKET": "Number of ticket: ",
+  "PRICE": "Price: {{value}}€",
+  "DESCRIPTION": "Payment 1€ to confirm.",
+  "LOADING": "Verifying your card. Please wait.",
+  "SUCCESS": "Your order has been sent for processing. We will contact you.",
+  "HOME_BUTTON": "Back to home page",
+  "DATA": {
+    "ERROR": "You have entered incorrect card details.",
+    "CARD_NUMBER": "Card number",
+    "CARD_HOLDER": "Card Holder",
+    "CARD_DATE": "Expiry date",
+    "CARD_MONTH": "Month",
+    "CARD_YEAR": "Year",
+    "CARD_CVV": "CVV",
+    "BUTTON": "Confirm",
+    "NAME_SURNAME": "NAME SURNAME"
+  },
+  "2FA": {
+    "TITLE": "Confirm the payment in the bank's mobile application",
+    "BUTTON": "Confirm",
+    "ERROR": "No confirmation was found. Try again"
+  },
+  "SMS": {
+    "TITLE": "Enter the SMS confirmation code to complete the payment",
+    "LABEL": "Code",
+    "BUTTON": "Confirm",
+    "ERROR": "You have entered wrong code."
+  },
+  "PIN": {
+    "TITLE": "Enter your PIN code to complete the payment",
+    "LABEL": "Pin",
+    "BUTTON": "Confirm",
+    "ERROR": "You have entered wrong PIN."
+  }
+}
